@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 
 namespace ConsoleApplication1
 {
@@ -7,6 +7,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             string hw = "Hello World";
+            System.Console.WriteLine(hw);
         }
 
         static int GetInt()
