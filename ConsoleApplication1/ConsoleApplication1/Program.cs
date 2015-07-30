@@ -12,5 +12,10 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World");
         }
+
+        static int GetInt()
+        {
+            return 0;
+        }
     }
 }
